@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/redzone/static/js/main.d0875831.chunk.js",
-    "main.js.map": "/redzone/static/js/main.d0875831.chunk.js.map",
+    "main.js": "/redzone/static/js/main.f7315301.chunk.js",
+    "main.js.map": "/redzone/static/js/main.f7315301.chunk.js.map",
     "runtime-main.js": "/redzone/static/js/runtime-main.c6d4fce3.js",
     "runtime-main.js.map": "/redzone/static/js/runtime-main.c6d4fce3.js.map",
-    "static/js/2.2cec73d0.chunk.js": "/redzone/static/js/2.2cec73d0.chunk.js",
-    "static/js/2.2cec73d0.chunk.js.map": "/redzone/static/js/2.2cec73d0.chunk.js.map",
+    "static/js/2.5ad0595c.chunk.js": "/redzone/static/js/2.5ad0595c.chunk.js",
+    "static/js/2.5ad0595c.chunk.js.map": "/redzone/static/js/2.5ad0595c.chunk.js.map",
     "static/js/3.9d3d3a0e.chunk.js": "/redzone/static/js/3.9d3d3a0e.chunk.js",
     "static/js/3.9d3d3a0e.chunk.js.map": "/redzone/static/js/3.9d3d3a0e.chunk.js.map",
     "index.html": "/redzone/index.html",
-    "static/js/2.2cec73d0.chunk.js.LICENSE.txt": "/redzone/static/js/2.2cec73d0.chunk.js.LICENSE.txt"
+    "static/js/2.5ad0595c.chunk.js.LICENSE.txt": "/redzone/static/js/2.5ad0595c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6d4fce3.js",
-    "static/js/2.2cec73d0.chunk.js",
-    "static/js/main.d0875831.chunk.js"
+    "static/js/2.5ad0595c.chunk.js",
+    "static/js/main.f7315301.chunk.js"
   ]
 }
