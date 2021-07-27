@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/redzone/static/js/main.b08af2b2.chunk.js",
-    "main.js.map": "/redzone/static/js/main.b08af2b2.chunk.js.map",
+    "main.js": "/redzone/static/js/main.d0875831.chunk.js",
+    "main.js.map": "/redzone/static/js/main.d0875831.chunk.js.map",
     "runtime-main.js": "/redzone/static/js/runtime-main.c6d4fce3.js",
     "runtime-main.js.map": "/redzone/static/js/runtime-main.c6d4fce3.js.map",
     "static/js/2.2cec73d0.chunk.js": "/redzone/static/js/2.2cec73d0.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.c6d4fce3.js",
     "static/js/2.2cec73d0.chunk.js",
-    "static/js/main.b08af2b2.chunk.js"
+    "static/js/main.d0875831.chunk.js"
   ]
 }
