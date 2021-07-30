@@ -209,7 +209,7 @@ class AddRoutine extends React.Component{
         }
 
         // fetch matching locations using Barikoi API
-        fetch("https://barikoi.xyz/v1/api/search/verify/autocomplete/" + process.env.REACT_APP_BARIKOI_LOCATION_API + "place?q=" + this.state.locationInput)
+        fetch("https://barikoi.xyz/v1/api/search/verify/autocomplete/" + process.env.REACT_APP_BARIKOI_LOCATION_API + "/place?q=" + this.state.locationInput)
         .then(response => response.json())
         .then(response => {
             console.log('Success:', response);
