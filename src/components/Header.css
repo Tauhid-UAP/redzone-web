@@ -1,0 +1,17 @@
+header{
+    background-color: black;
+    text-align: center;
+}
+
+.title-wrapper{
+    background-color: white;
+    display: inline-block;
+    height: min-content;
+    border-radius: 25px;
+}
+
+#title-text{
+    background-color: deepskyblue;
+    color: white;
+    font-size: 35px;
+}
