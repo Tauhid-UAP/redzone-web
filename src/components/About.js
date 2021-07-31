@@ -105,8 +105,8 @@ class About extends Component {
                 <Card>
                         <CardMedia image={imgSakibShahriar} style={{height: 250, width: 250, margin: "auto", align: "center"}} />
                         <CardContent>
-                            <Typography variant="h5" align="center">Sakib Shahriar</Typography>
-                            <Typography variant="body1" align="center">Project Analyst</Typography>
+                            <Typography variant="h5" align="center">Md. Sakib Shahriar</Typography>
+                            <Typography variant="body1" align="center">Testing and Analysis</Typography>
                         </CardContent>
                     </Card>
                 </Grid>
